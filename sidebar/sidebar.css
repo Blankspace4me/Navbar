@@ -1,4 +1,7 @@
-.sidebar{
+body{
+    background-color: lightcyan;
+    background-attachment: cover;
+}.sidebar{
     background-color: black;
     color: antiquewhite;
     width: 150px;
